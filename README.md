@@ -49,5 +49,5 @@ Lot 3 T-Test
 
 The p-value for Lot 3 of the suspension coils was smaller than 0.05, so we do have evidence to reject the null hypothesis. The mean of the PSI for this sample of suspension coils (1496.14) is statistically different than the expected population mean of 1500.
 
-## New Design
-new test
+## Study Design: MechaCar vs Competition
+A study to compare MechaCar with its competitors could be to test MechaCar's highway fuel efficiency against its competitors highway fuel efficiency. 
