@@ -14,3 +14,12 @@ The regression analysis shows that there are multiple factors (vehicle length, g
 This linear model does effectively predict the mpg for a MechaCar prototype, as the multiple R-squared value of 0.7149 shows that 71% of data fits well with the regression line.
 
 ## Summary Statistics on Suspension Coils
+Suspension Coil Total Summary
+
+![Suspension Coil Total Summary](https://github.com/RBarbush84/MechaCar_Statistical_Analysis/blob/main/Resources/Suspension%20Coil%20Total%20Summary.png)
+
+Manufacturing Lot Summary
+
+![Manufacturing Lot Summary](https://github.com/RBarbush84/MechaCar_Statistical_Analysis/blob/main/Resources/Manufacturing%20Lot%20Summary.png)
+
+The summary statistics for sus
