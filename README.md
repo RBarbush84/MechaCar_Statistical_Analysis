@@ -47,7 +47,7 @@ Lot 3 T-Test
 
 ![Lot 3 T Test](https://github.com/RBarbush84/MechaCar_Statistical_Analysis/blob/main/Resources/Lot%203%20T%20Test.png)
 
-Summary
+The p-value for Lot 3 of the suspension coils was smaller than 0.05, so we do have evidence to reject the null hypothesis. The mean of the PSI for this sample of suspension coils (1496.14) is statistically different than the expected population mean of 1500.
 
 ## New Design
 new test
