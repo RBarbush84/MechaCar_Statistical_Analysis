@@ -22,4 +22,7 @@ Manufacturing Lot Summary
 
 ![Manufacturing Lot Summary](https://github.com/RBarbush84/MechaCar_Statistical_Analysis/blob/main/Resources/Manufacturing%20Lot%20Summary.png)
 
-The summary statistics for sus
+The summary statistics for the suspension coils in total, across all 3 manufacturing lots, shows that the suspension coils are compliant with MechaCar's standards requiring the variance to not exceed 100 PSI, as the entire population has a variance of just over 62 PSI. Lots 1 and 2 are also compliant with this standard, with variances of 0.98 PSI and 7.47 PSI respectively. However, Lot 3 is not in compliance with this standard, having a variance greater than 170 PSI.
+
+## T-Tests on Suspension Coils
+Testin it
