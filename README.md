@@ -50,4 +50,10 @@ Lot 3 T-Test
 The p-value for Lot 3 of the suspension coils was smaller than 0.05, so we do have evidence to reject the null hypothesis. The mean of the PSI for this sample of suspension coils (1496.14) is statistically different than the expected population mean of 1500.
 
 ## Study Design: MechaCar vs Competition
-A study to compare MechaCar with its competitors could be to test MechaCar's highway fuel efficiency against its competitors highway fuel efficiency. 
+A study to compare MechaCar with its competitors could be to test MechaCar's highway fuel efficiency against its competitors highway fuel efficiency in the Sedan class, to see if MechaCar offers significantly better highway fuel efficiency than the completition. The data to collect for this test would include the highway mpg for all MechaCar models in the Sedan class, as well as the reported highway mpg for their competitors' Sedans. It would also require calculating and population mean from the reported highway mpg for their competition, and the mean highway mpg for all of MechaCar's Sedan models. The mean highway mpg calculated from the competitor data will be the population mean that we test our MechaCar data against.
+
+Null Hypothesis: There is no significant statistical difference in highway fuel efficiency for MechaCar vs its competitors in the Sedan class.
+
+Alternative Hypothesis: A significant statistical difference exists in highway fuel efficiency for MechaCar vs its competitors in the Sedan class.
+
+To test this mpg data, we would use multiple T-Tests, each at a 95% confidence level. The first T-Test would test the mean combined highway mpg for MechaCar's Sedans vs the mean highway mpg for its competitors to see if MechaCar's Sedan class as a whole has a statistically different highway mpg than their competitors' Sedans as a whole. Then an additional T-Test would also be performed for each of MechaCar's Sedan models vs the mean highway mpg for its competitors. These T-Tests can tell us which, if any, of MechaCar's Sedan models have significantly different highway mpg than the mean highway mpg of their competitors' Sedans.
