@@ -29,19 +29,19 @@ Overall T-Test
 
 ![All Lot T Test](https://github.com/RBarbush84/MechaCar_Statistical_Analysis/blob/main/Resources/All%20Lot%20T%20Test.png)
 
-Summary
+The p-value for the suspension coils as a whole was greater than 0.05, so we cannot reject the null hypothesis. The mean of the PSI for this sample of suspension coils (1498.78) is statistically similar to the expected population mean of 1500.
 
 Lot 1 T-Test
 
 ![Lot 1 T Test](https://github.com/RBarbush84/MechaCar_Statistical_Analysis/blob/main/Resources/Lot%201%20T%20Test.png)
 
-Summary
+The p-value for Lot 1 of the suspension coils was greater than 0.05, so we cannot reject the null hypothesis. The mean of the PSI for this sample of suspension coils (1500) is statistically similar to the expected population mean of 1500.
 
 Lot 2 T-Test
 
 ![Lot 2 T Test](https://github.com/RBarbush84/MechaCar_Statistical_Analysis/blob/main/Resources/Lot%202%20T%20Test.png)
 
-Summary
+The p-value for Lot 2 of the suspension coils was greater than 0.05, so we cannot reject the null hypothesis. The mean of the PSI for this sample of suspension coils (1500.2) is statistically similar to the expected population mean of 1500.
 
 Lot 3 T-Test
 
